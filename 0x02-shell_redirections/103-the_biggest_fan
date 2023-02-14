@@ -1,0 +1,2 @@
+#!/bin/bash
+ping -n 11 'x.x.x.x' | find "TSV=" >nul
